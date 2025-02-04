@@ -1,0 +1,36 @@
+---
+description: Tokenomics Overview
+---
+
+# Tokenomics
+
+***
+
+### $MyHalal Tokenizations
+
+***
+
+#### **Table 1: Tokenomics Overview**
+
+| **Parameter**              | **Details**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Token Name**             | $MyHalal                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Token Type**             | Utility Token                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Total Supply**           | 1,000,000,000 $MyHalal tokens                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Blockchain Networks**    | <p><strong>Ethereum:</strong> Leveraging Ethereum’s robust security and wide adoption for the core smart contract infrastructure.<br><br><strong>Polygon:</strong> Utilizing Polygon for lower transaction fees and faster confirmations, ensuring a seamless user experience on the HalalChain platform.</p>                                                                                                                                                                                                                                                                                                                                                                               |
+| **Distribution Breakdown** | <p><strong>35% Ecosystem Rewards:</strong> Allocated for user incentives, staking rewards, and community engagement programs.<br><br><strong>25% Public Sale:</strong> Offered to early adopters and investors during public sale events.<br><br><strong>20% Partnerships &#x26; Liquidity:</strong> Reserved for strategic partnerships, exchange liquidity, and collaborative initiatives.<br><br><strong>15% Team &#x26; Advisors:</strong> Allocated to founders, team members, and advisors, subject to a 4-year vesting schedule to ensure long-term commitment.<br><br><strong>5% Reserve:</strong> Held as a contingency fund for future strategic needs and unforeseen events.</p> |
+
+***
+
+#### **Table 2: Token Utility**
+
+| **Utility Category** | **Details**                                                                                                                                                                                                                                                                                                                 |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Payments**         | $MyHalal tokens are used to facilitate low-fee, cross-border transactions across the HalalChain Marketplace, ensuring quick and secure payments for Halal-certified goods and services.                                                                                                                                     |
+| **Staking**          | <p>Both vendors and consumers can stake $MyHalal tokens to unlock various benefits:<br><br><strong>Vendors:</strong> Gain premium store placements, advanced analytics, and reduced listing fees.<br><br><strong>Consumers:</strong> Access discounts, cashback rewards, and exclusive offers on platform transactions.</p> |
+| **Governance**       | Token holders participate in decentralized governance, proposing and voting on critical decisions regarding platform upgrades, new features, and compliance policies.                                                                                                                                                       |
+| **Burn Mechanism**   | A portion of the transaction fees is burned, reducing the overall token supply over time and contributing to the long-term scarcity and potential value appreciation of $MyHalal.                                                                                                                                           |
+
+***
+
+These tables provide a clear, concise summary of the key aspects of the $MyHalal tokenomics, covering both the token distribution and its various utilities within the HalalChain Marketplace ecosystem.
