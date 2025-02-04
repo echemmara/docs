@@ -15,7 +15,7 @@ coverY: 0
 
 ## **HalalChain Marketplace Whitepaper**
 
-**B2C, C2C, and Multivendor Ecommerce Platform**\
+**Multivendor Ecommerce Platform**\
 &#xNAN;_&#x49;ntegrating Supply Chain Management (SCM), Logistics, Blockchain ($MyHalal Tokenomics), IoT, and Voting Communities_
 
 **Version:** 2.0\
