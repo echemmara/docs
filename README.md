@@ -1,8 +1,8 @@
 ---
+icon: shuttle-space
 description: >-
   Multivendor Ecommerce Platform Integrating Supply Chain Management (SCM),
   Logistics, Blockchain ($MyHalal Tokenomics), IoT, and Voting Communities
-icon: shuttle-space
 cover: .gitbook/assets/WhatsApp Image 2025-02-04 at 6.42.54 PM.jpeg
 coverY: 0
 ---
@@ -10,11 +10,6 @@ coverY: 0
 # HalalChain Marketplace Whitepaper
 
 ***
-
-**Version:** 2.0\
-**Date:** March, 2025
-
-**Disclaimer:** This document outlines the technical and operational framework of HalalChain Marketplace and does not constitute financial advice. All forward-looking statements are subject to inherent risks and uncertainties.
 
 ***
 
@@ -24,7 +19,7 @@ coverY: 0
 &#xNAN;_&#x49;ntegrating Supply Chain Management (SCM), Logistics, Blockchain ($MyHalal Tokenomics), IoT, and Voting Communities_
 
 **Version:** 2.0\
-**Date:** \[Month, Year]
+**Date:** April - June, 2025
 
 **Disclaimer:** This document outlines the technical and operational framework of HalalChain Marketplace and does not constitute financial advice. All forward-looking statements are subject to inherent risks and uncertainties.
 
@@ -37,21 +32,21 @@ coverY: 0
    * 2.1 [B2C Model](./#id-2.1-b2c-model)
    * 2.2 [C2C Model](./#id-2.2-c2c-model)
    * 2.3 [Multivendor Model](./#id-2.3-multivendor-model)
-3. Market Opportunity and the Global Halal Economy
-4. Technology Stack and Integration
-   * 4.1 Supply Chain Management (SCM)
-   * 4.2 Logistics Network
-   * 4.3 Blockchain & $MyHalal Tokenomics
-   * 4.4 IoT for Quality Assurance
-5. Platform Features
-6. Token Utility and Ecosystem Design
-7. Partnerships and Halal Compliance
-8. Roadmap
-9. Regulatory and Ethical Considerations
-10. Team and Advisors
-11. Risk Analysis
-12. Voting Communities and Decentralized Governance
-13. Conclusion
+3. [Market Opportunity and the Global Halal Economy](unlocking-market-opportunities.md)
+4. [Technology Stack and Integration](technology-stack-and-integration/)
+   * 4.1 [Supply Chain Management (SCM)](partnerships-and-halal-compliance/)
+   * 4.2[ Logistics Network](technology-stack-and-integration/logistics-network.md)
+   * 4.3 [Blockchain & $MyHalal Tokenomics](tokenomics/)
+   * 4.4[ IoT for Quality Assurance](technology-stack-and-integration/iot-for-quality-assurance.md)
+5. [Platform Features](partnerships-and-halal-compliance/)
+6. [Token Utility and Ecosystem Design](tokenomics/usdmyhalal-usd-token-conversion-table.md)
+7. <mark style="color:blue;">Partne</mark>r[ships and Halal Compliance](partnerships-and-halal-compliance/)
+8. [Roadmap](roadmap.md)
+9. [Regulatory and Ethical Considerations](data-privacy-and-cybersecurity-regulations.md)
+10. [Team and Advisors](halalchain-marketplace-whitepaper/appendix/appendix-a-team-and-advisor-biographies.md)
+11. [Risk Analysis](./#id-11.-risk-analysis)
+12. [Voting Communities and Decentralized Governance](partnerships-and-halal-compliance/communities.md)
+13. [Conclusion](./#id-13.-conclusion)
 14. [Appendix](halalchain-marketplace-whitepaper/appendix/)
 
 ***
