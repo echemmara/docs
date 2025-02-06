@@ -26,7 +26,7 @@
 
 ***
 
-#### **Farm-to-Fork Standards in Halal Certification**
+#### **Farm-to-Table Standards in Halal Certification**
 
 Farm-to-fork standards are a set of practices that trace every stage of a food product’s journey, from farming to consumer consumption. The integration of NFTs and QR codes into halal certification processes enhances the farm-to-fork approach in the following ways:
 
