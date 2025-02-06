@@ -12,6 +12,7 @@
   * [Logistics Network](technology-stack-and-integration/logistics-network.md)
   * [Blockchain & $MyHalal Tokenomics](technology-stack-and-integration/blockchain-and-usdmyhalal-tokenomics.md)
   * [IoT for Quality Assurance](technology-stack-and-integration/iot-for-quality-assurance.md)
+  * [Commerce Cloud](technology-stack-and-integration/commerce-cloud.md)
 * [Roadmap](roadmap.md)
 * [Global Halal Certification Standards](global-halal-certification-standards/README.md)
   * [Global Halal Certification Bodies](global-halal-certification-standards/global-halal-certification-bodies.md)
@@ -32,9 +33,10 @@
 ***
 
 * [HalalChain Marketplace Voting Communities](halalchain-marketplace-voting-communities.md)
+* [HalalChain Non-Muslim Communities](halalchain-non-muslim-communities.md)
 * [Tokenomics](tokenomics/README.md)
-  * [$MyHalal USD/Token Conversion Table](tokenomics/usdmyhalal-usd-token-conversion-table.md)
-  * [$MyHalal Cryptocurrency](tokenomics/usdmyhalal-cryptocurrency.md)
+  * [Tokenomis Conversion Table](tokenomics/tokenomis-conversion-table.md)
+  * [💲MyHalal Cryptocurrency](tokenomics/myhalal-cryptocurrency.md)
   * [Decentralized Islamic Finance](tokenomics/decentralized-islamic-finance.md)
 * [Data Privacy and Cybersecurity Regulations](data-privacy-and-cybersecurity-regulations.md)
 * [F.A.Q](f.a.q.md)
