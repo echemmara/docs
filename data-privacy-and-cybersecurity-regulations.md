@@ -103,8 +103,6 @@ This comprehensive approach to GDPR compliance reflects HalalChain's commitment 
 
 ***
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr><tr><td></td></tr></tbody></table>
-
 Below is an expanded version of the "Data Protection Standards" section addressing CCPA (California) and local regulations:
 
 ***

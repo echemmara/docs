@@ -45,9 +45,10 @@ coverY: 0
 9. [Regulatory and Ethical Considerations](data-privacy-and-cybersecurity-regulations.md)
 10. [Team and Advisors](halalchain-marketplace-whitepaper/appendix/appendix-a-team-and-advisor-biographies.md)
 11. [Risk Analysis](./#id-11.-risk-analysis)
-12. [Voting Communities and Decentralized Governance](partnerships-and-halal-compliance/communities.md)
-13. [Conclusion](./#id-13.-conclusion)
-14. [Appendix](halalchain-marketplace-whitepaper/appendix/)
+12. [Centralization vs. Decentralization](broken-reference)
+13. [HalalChain Marketplace Voting Communities](halalchain-marketplace-voting-communities.md)
+14. [Conclusion](./#id-13.-conclusion)
+15. [Appendix](halalchain-marketplace-whitepaper/appendix/)
 
 ***
 
