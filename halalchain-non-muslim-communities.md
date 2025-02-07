@@ -1,2 +1,0 @@
-# HalalChain Non-Muslim Communities
-

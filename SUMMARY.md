@@ -7,13 +7,22 @@
     * [Appendix C: Technical Specifications of IoT Devices and SCM Modules](halalchain-marketplace-whitepaper/appendix/appendix-c-technical-specifications-of-iot-devices-and-scm-modules.md)
     * [Appendix D: Regulatory Frameworks and Compliance Documentation](halalchain-marketplace-whitepaper/appendix/appendix-d-regulatory-frameworks-and-compliance-documentation.md)
 * [Unlocking Market Opportunities](unlocking-market-opportunities.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
+
+## Group 2
+
+* [Page 2](group-2/page-2.md)
+
+***
+
 * [Technology Stack and Integration](technology-stack-and-integration/README.md)
   * [Supply Chain Management (SCM)](technology-stack-and-integration/supply-chain-management-scm.md)
   * [Logistics Network](technology-stack-and-integration/logistics-network.md)
   * [Blockchain & $MyHalal Tokenomics](technology-stack-and-integration/blockchain-and-usdmyhalal-tokenomics.md)
   * [IoT for Quality Assurance](technology-stack-and-integration/iot-for-quality-assurance.md)
-  * [Commerce Cloud](technology-stack-and-integration/commerce-cloud.md)
-* [Roadmap](roadmap.md)
 * [Global Halal Certification Standards](global-halal-certification-standards/README.md)
   * [Global Halal Certification Bodies](global-halal-certification-standards/global-halal-certification-bodies.md)
   * [Smart Contract](global-halal-certification-standards/smart-contract.md)
@@ -21,22 +30,11 @@
 * [Partnerships and Halal Compliance](partnerships-and-halal-compliance/README.md)
   * [ISO](partnerships-and-halal-compliance/iso.md)
   * [IMP](partnerships-and-halal-compliance/imp.md)
-
-## Centralization & Decentralizaion
-
-* [Centralization vs. Decentralization](centralization-and-decentralizaion/centralization-vs.-decentralization.md)
-* [Advantages of Decentralization](centralization-and-decentralizaion/advantages-of-decentralization.md)
-* [Disadvantages of Decentralization](centralization-and-decentralizaion/disadvantages-of-decentralization.md)
-* [Comparison](centralization-and-decentralizaion/comparison.md)
-* [Real-World Examples](centralization-and-decentralizaion/real-world-examples.md)
-
-***
-
-* [HalalChain Marketplace Voting Communities](halalchain-marketplace-voting-communities.md)
-* [HalalChain Non-Muslim Communities](halalchain-non-muslim-communities.md)
+  * [Communities](partnerships-and-halal-compliance/communities.md)
+* [Roadmap](roadmap.md)
 * [Tokenomics](tokenomics/README.md)
-  * [Tokenomis Conversion Table](tokenomics/tokenomis-conversion-table.md)
-  * [💲MyHalal Cryptocurrency](tokenomics/myhalal-cryptocurrency.md)
+  * [$MyHalal USD/Token Conversion Table](tokenomics/usdmyhalal-usd-token-conversion-table.md)
+  * [$MyHalal Cryptocurrency](tokenomics/usdmyhalal-cryptocurrency.md)
   * [Decentralized Islamic Finance](tokenomics/decentralized-islamic-finance.md)
 * [Data Privacy and Cybersecurity Regulations](data-privacy-and-cybersecurity-regulations.md)
 * [F.A.Q](f.a.q.md)
