@@ -2,7 +2,7 @@
 
 ***
 
-IoT Layer (Device Connectivity & Edge Computing)\*
+**IoT Layer (Device Connectivity & Edge Computing)**
 
 * _IoT Hardware_:
   * _Raspberry Pi / Arduino_ – Prototyping

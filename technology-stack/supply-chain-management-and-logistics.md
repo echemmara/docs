@@ -6,7 +6,7 @@ description: Marketplace Integration
 
 ***
 
-Supply Chain & Logistics Layer\*
+**Supply Chain & Logistics Layer**
 
 * _Enterprise Resource Planning (ERP)_:
   * _SAP S/4HANA / Odoo / Microsoft Dynamics 365_

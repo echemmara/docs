@@ -2,7 +2,7 @@
 
 ***
 
-Cloud Layer (Compute, Storage & AI/ML)\*
+**Cloud Layer (Compute, Storage & AI/ML)**
 
 * _Cloud Providers_:
   * _Google Cloud (GCP)_ – Pub/Sub for event-driven architecture

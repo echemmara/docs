@@ -2,7 +2,7 @@
 
 ***
 
-Blockchain Layer (Decentralization & Tokenomics)\*
+**Blockchain Layer (Decentralization & Tokenomics)**
 
 * _Blockchain Platforms_:
   * _Ethereum (Solidity, ERC-20, ERC-721, ERC-1155)_ – Smart contracts & tokenization
