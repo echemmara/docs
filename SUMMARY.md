@@ -8,33 +8,23 @@
     * [Appendix D: Regulatory Frameworks and Compliance Documentation](halalchain-marketplace-whitepaper/appendix/appendix-d-regulatory-frameworks-and-compliance-documentation.md)
 * [Unlocking Market Opportunities](unlocking-market-opportunities.md)
 
+## Technology Stack
+
+* [Supply Chain Management & Logistics](technology-stack/supply-chain-management-and-logistics.md)
+* [Blockchain Technology](technology-stack/blockchain-technology.md)
+* [Internet of Things](technology-stack/internet-of-things.md)
+* [Commerce Cloud](technology-stack/commerce-cloud.md)
+
 ## Group 1
 
-* [Page 1](group-1/page-1.md)
+* [MyHalal Cryptocurrency](group-1/myhalal-cryptocurrency.md)
+* [Decentralized Financial Systems](group-1/decentralized-financial-systems.md)
 
-## Group 2
+## Privacy Policy
 
-* [Page 2](group-2/page-2.md)
+* [Data Privacy](privacy-policy/data-privacy.md)
+* [Cybersecurity](privacy-policy/cybersecurity.md)
 
 ***
 
-* [Technology Stack and Integration](technology-stack-and-integration/README.md)
-  * [Supply Chain Management (SCM)](technology-stack-and-integration/supply-chain-management-scm.md)
-  * [Logistics Network](technology-stack-and-integration/logistics-network.md)
-  * [Blockchain & $MyHalal Tokenomics](technology-stack-and-integration/blockchain-and-usdmyhalal-tokenomics.md)
-  * [IoT for Quality Assurance](technology-stack-and-integration/iot-for-quality-assurance.md)
-* [Global Halal Certification Standards](global-halal-certification-standards/README.md)
-  * [Global Halal Certification Bodies](global-halal-certification-standards/global-halal-certification-bodies.md)
-  * [Smart Contract](global-halal-certification-standards/smart-contract.md)
-  * [QR CODE](global-halal-certification-standards/qr-code.md)
-* [Partnerships and Halal Compliance](partnerships-and-halal-compliance/README.md)
-  * [ISO](partnerships-and-halal-compliance/iso.md)
-  * [IMP](partnerships-and-halal-compliance/imp.md)
-  * [Communities](partnerships-and-halal-compliance/communities.md)
-* [Roadmap](roadmap.md)
-* [Tokenomics](tokenomics/README.md)
-  * [$MyHalal USD/Token Conversion Table](tokenomics/usdmyhalal-usd-token-conversion-table.md)
-  * [$MyHalal Cryptocurrency](tokenomics/usdmyhalal-cryptocurrency.md)
-  * [Decentralized Islamic Finance](tokenomics/decentralized-islamic-finance.md)
-* [Data Privacy and Cybersecurity Regulations](data-privacy-and-cybersecurity-regulations.md)
 * [F.A.Q](f.a.q.md)

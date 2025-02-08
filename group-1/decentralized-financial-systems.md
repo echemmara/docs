@@ -1,4 +1,8 @@
-# Decentralized Islamic Finance
+---
+icon: money-bill-transfer
+---
+
+# Decentralized Financial Systems
 
 ## Harnessing Blockchain Technology
 

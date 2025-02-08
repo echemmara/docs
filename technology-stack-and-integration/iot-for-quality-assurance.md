@@ -1,2 +1,0 @@
-# IoT for Quality Assurance
-

@@ -1,8 +1,9 @@
 ---
 description: $MyHalal Cryptocurrency (USDT, ETH, MATIC, BTC).
+icon: ethereum
 ---
 
-# $MyHalal Cryptocurrency
+# MyHalal Cryptocurrency
 
 #### **General Design Guidelines**
 

@@ -1,7 +1,0 @@
-# Technology Stack and Integration
-
-***
-
-
-
-##

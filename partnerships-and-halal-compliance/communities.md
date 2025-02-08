@@ -1,5 +1,0 @@
-# Communities
-
-
-
-## Voting&#x20;
