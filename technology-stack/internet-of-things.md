@@ -1,3 +1,7 @@
+---
+icon: link
+---
+
 # Internet of Things
 
 ***

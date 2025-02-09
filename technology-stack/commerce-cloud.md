@@ -1,3 +1,7 @@
+---
+icon: cloud
+---
+
 # Commerce Cloud
 
 ***

@@ -1,3 +1,7 @@
+---
+icon: table-cells-row-unlock
+---
+
 # Unlocking Market Opportunities
 
 ***

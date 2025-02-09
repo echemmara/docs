@@ -1,5 +1,6 @@
 ---
 description: Marketplace Integration
+icon: uncharted
 ---
 
 # Supply Chain Management & Logistics

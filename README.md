@@ -27,33 +27,34 @@ coverY: 0
 
 ### **Table of Contents**
 
-1. [Executive Summary](halalchain-marketplace-whitepaper/summary/)
+1. [Executive Summary](executive-summary.md)
 2. [Introduction to HalalChain Marketplace](broken-reference)
-   * 2.1 [B2C Model](introduction/business-to-business.md)
-   * 2.2 [C2C Model](introduction/customer-to-customer.md)
-   * 2.3 [Multivendor Model](https://app.gitbook.com/o/RLLepm780CeUH5Xm2mvr/s/deJo8ybS8snoWQNZDOmv/)
+   * [2.1 B2C Model](introduction/business-to-business.md)
+   * [2.2 C2C Model](introduction/customer-to-customer.md)
+   * [2.3 Multivendor Model](introduction/multivendor-model.md)
 3. [Market Opportunity and the Global Halal Economy](unlocking-market-opportunities.md)
 4. [Technology Stack and Integration](https://app.gitbook.com/s/aD3FBbRFmOqzC8jlxHlo/overview/technological-integration)
-   * 4.1 Supply Chain Management & Logistics Network
-   * 4.2 Blockchain Technology
-   * 4.3 Internet of Things
-   * 4.4 Commerce Cloud
-5. Platform Features
-6. Token Utility and Ecosystem Design
-7. <mark style="color:blue;">Partne</mark>rships and Halal Compliance
-8. Roadmap
-9. Regulatory and Ethical Considerations
-10. Team and Advisors
-11. Risk Analysis
-12. Voting Communities and Decentralized Governance
-13. Conclusion
-14. Appendix
+   * [4.1 Supply Chain Management & Logistics Network](technology-stack/supply-chain-management-and-logistics.md)
+   * [4.2 Blockchain Technology](technology-stack/blockchain-technology.md)
+   * [4.3 Internet of Things](technology-stack/internet-of-things.md)
+   * [4.4 Commerce Cloud](technology-stack/commerce-cloud.md)
+5. [Platform Features](platform-features.md)
+6. [Token Utility and Ecosystem Design](broken-reference)
+7. [<mark style="color:blue;">Roadmap</mark>](halalchain-marketplace-roadmap-2025-2030.md)
+8. [<mark style="color:blue;">Strategic Partne</mark>rships and Halal Compliance](strategic-partnerships-and-halal-compliance-in-halalchain-marketplace.md)
+9. [DeFi, NFTs & AI Verification](defi-nfts-and-ai-verification.md)
+10. [Team and Advisors](halalchain-marketplace-core-team-and-advisory-board.md)
+11. [Community](broken-reference)
+12. [Privacy Policy](broken-reference)
+13. [Frequently Asked Question](f.a.q.md)
 
 ***
 
 ### 1. Executive Summary
 
-HalalChain Marketplace is a decentralized ecommerce ecosystem designed to serve the global Halal economy by integrating three commerce models—B2C (Business-to-Consumer), C2C (Consumer-to-Consumer), and Multivendor enterprise. Our platform leverages blockchain technology to ensure immutable traceability of Halal certifications, IoT devices to monitor the integrity of perishable goods, and proprietary **💲**MyHalal tokens to facilitate Sharia-compliant transactions. Additionally, by incorporating voting communities into our governance structure, we empower stakeholders to directly participate in decision-making processes, ensuring that platform upgrades and compliance standards reflect community values. HalalChain aims to reduce fraud, enhance transparency, and empower small vendors with enterprise-grade tools for success in the rapidly growing Halal market.
+HalalChain Marketplace is a decentralized ecommerce ecosystem designed to serve the global Halal economy by integrating three commerce models—**B2C (Business-to-Consumer), C2C (Consumer-to-Consumer), and Multivendor enterprise.** Our platform leverages blockchain technology to ensure immutable traceability of Halal certifications, IoT devices to monitor the integrity of perishable goods, and proprietary **💲**MyHalal tokens to facilitate Sharia-compliant transactions.&#x20;
+
+Additionally, by incorporating voting communities into our governance structure, we empower stakeholders to directly participate in decision-making processes, ensuring that platform upgrades and compliance standards reflect community values. HalalChain aims to reduce fraud, enhance transparency, and empower small vendors with enterprise-grade tools for success in the rapidly growing Halal market.
 
 ***
 
@@ -61,29 +62,73 @@ HalalChain Marketplace is a decentralized ecommerce ecosystem designed to serve 
 
 HalalChain Marketplace has been conceived to bridge ethical consumers, certified Halal businesses, and compliant vendors through a secure, scalable, and innovative ecommerce platform. Our marketplace supports three distinct models:
 
-#### 2.1 B2C Model
+### **📌 2.1 B2C Model: Certified Halal Businesses to Consumers**
 
-* **Focus:** Direct sales from certified Halal businesses to consumers.
-* **Key Features:**
-  * **Verified Listings:** Products are listed with Halal certifications recorded on-chain for complete transparency.
-  * **Subscription Services:** Curated Halal grocery, cosmetic, and pharmaceutical boxes available on a subscription basis.
-  * **User Experience:** A seamless shopping interface that emphasizes trust, quality, and Halal compliance.
+🔹 **Focus:** Direct sales from **verified halal-certified businesses** to end consumers with **on-chain transparency and trust**.
 
-#### 2.2 C2C Model
+#### ✅ **Key Features**
 
-* **Focus:** Peer-to-peer trading of Halal goods, including homemade products and pre-owned items.
-* **Key Features:**
-  * **Reputation System:** A decentralized review system based on blockchain ensures integrity and accountability.
-  * **Secure Transactions:** Escrow smart contracts protect both buyers and sellers, reducing the risk of fraud.
-  * **Community Engagement:** A vibrant community of sellers and buyers reinforcing quality and compliance through user-generated feedback.
+**🔹 Verified Halal Listings:**
 
-#### 2.3 Multivendor Model
+* Products are **authenticated with blockchain-recorded halal certifications**, ensuring full transparency.
+* Consumers can scan a **QR code linked to an NFT-based halal certificate** to verify authenticity.
 
-* **Focus:** A marketplace enabling SMEs and large enterprises to host their own storefronts.
-* **Key Features:**
-  * **Custom Storefronts:** Vendors can manage their product listings, inventory, and customer interactions with integrated SCM and logistics dashboards.
-  * **Bulk Order Management:** Tools for managing large orders and facilitating cross-border payment solutions.
-  * **Enterprise Tools:** Enhanced features including data analytics, inventory management, and integrated token staking for premium listings.
+**🔹 AI-Powered Subscription Services:**
+
+* Curated **halal grocery, cosmetics, and pharmaceutical boxes** available via a **subscription-based model**.
+* AI-driven personalization tailors recommendations based on purchasing patterns.
+
+**🔹 Transparent & Seamless Shopping Experience:**
+
+* A **trust-focused interface** prioritizing **product authenticity, quality assurance, and halal compliance**.
+* **IoT-powered halal tracking** allows real-time verification of product sourcing and supply chain integrity.
+
+***
+
+### **📌 2.2 C2C Model: Peer-to-Peer Halal Trading & Community Commerce**
+
+🔹 **Focus:** Empowering **individuals, small communities, and home-based entrepreneurs** to **buy and sell halal products directly** in a **trustless, secure, and community-driven** environment.
+
+#### ✅ **Key Features**
+
+**🔹 Blockchain-Based Reputation & Trust System:**
+
+* Sellers and buyers build **on-chain reputation scores** via a **decentralized, tamper-proof review system**.
+* Community-driven feedback ensures **integrity, quality assurance, and vendor accountability**.
+
+**🔹 Secure Smart Contract Transactions:**
+
+* **Escrow-protected payments** minimize transaction risks and ensure fair trade.
+* **Automated dispute resolution** mechanisms resolve conflicts transparently.
+
+**🔹 Empowering Small Communities & Home-Based Artisans:**
+
+* Dedicated **C2C marketplace** for **homemade halal goods, organic food, artisanal crafts, and pre-owned halal-certified items**.
+* **HalalChain NFT verification** allows micro-entrepreneurs to certify **handmade and organic halal products**.
+* **Community-led halal compliance reviews** ensure continued adherence to halal standards.
+
+***
+
+### **📌 2.3 Multivendor Model: SME & Enterprise-Driven Marketplace**
+
+🔹 **Focus:** A **scalable marketplace** where **SMEs and large enterprises** can establish **custom storefronts** and manage their business operations seamlessly.
+
+#### ✅ **Key Features**
+
+**🔹 Custom Storefronts & Brand Management:**
+
+* Businesses can set up **personalized vendor pages**, manage inventory, and interact with customers directly.
+* **Integrated SCM (Supply Chain Management) & Logistics dashboards** streamline operations.
+
+**🔹 Bulk Order & Cross-Border Payment Solutions:**
+
+* **Automated B2B bulk order tools** facilitate large transactions between wholesalers and buyers.
+* **💲MyHalal token integration** enables **low-cost, halal-compliant cross-border payments** and settlements.
+
+**🔹 Enterprise-Grade Business Tools & DeFi Integration:**
+
+* Vendors gain access to **real-time data analytics, AI-powered demand forecasting, and halal supply chain monitoring**.
+* **Tokenized staking mechanisms** allow premium visibility in search results for vendors who stake **💲MyHalal tokens**.
 
 ***
 
@@ -171,18 +216,82 @@ Ensuring global Halal compliance and operational excellence requires collaborati
 
 Our phased roadmap outlines the strategic milestones for HalalChain Marketplace:
 
-* **Phase 1 (Q2 2025):**
-  * Launch of the B2C MVP with integrated SCM and blockchain-backed Halal certification.
-  * Onboarding of initial certified Halal businesses.
-* **Phase 2 (Q2 2025):**
-  * Rollout of C2C features with escrow smart contracts and community-driven reviews.
-  * Integration of IoT sensors for real-time quality monitoring.
-* **Phase 3 (Q4 2025):**
-  * Expansion into the Multivendor space with custom storefronts and bulk order management tools.
-  * Listing of **💲**MyHalal on major global exchanges.
-* **Phase 4 (2026):**
-  * Deployment of AI-driven Halal certification automation.
-  * Launch of the Voting Communities platform to enable decentralized governance and community proposals.
+### **🟢 Phase 1 (Q2 2025): B2C MVP & Blockchain-Backed Halal Certification**
+
+**Objective:** Establish the **core marketplace** with blockchain-powered transparency, enabling businesses to sell halal-certified products securely.
+
+#### ✅ **Key Milestones**
+
+🔹 **Launch of the B2C MVP** with blockchain-integrated SCM for end-to-end halal supply chain tracking.\
+🔹 **Onboarding of initial certified Halal businesses** with NFT-based halal certificates.\
+🔹 **Smart contracts for automated transactions** ensuring Shariah compliance.\
+🔹 **IoT sensors integration prototype** for halal product quality verification.
+
+#### 🏆 **Expected Outcomes**
+
+✅ First **10,000+ halal-certified products** listed.\
+✅ **Blockchain-based halal authentication** goes live.\
+✅ 💲MyHalal token integration **for payments & incentives.**
+
+***
+
+### **🟡 Phase 2 (Q2 2025): C2C Features & IoT-Powered Quality Assurance**
+
+**Objective:** Empower **small businesses, artisans, and communities** with secure peer-to-peer transactions while strengthening quality control.
+
+#### ✅ **Key Milestones**
+
+🔹 **C2C marketplace launch** enabling peer-to-peer halal trade.\
+🔹 **Smart contract-based escrow** for secure payments.\
+🔹 **Community-driven reputation system** with decentralized identity.\
+🔹 **Full-scale IoT sensor deployment** for real-time halal compliance monitoring.\
+🔹 **Introduction of Zakat & Sadaqah smart contracts** for Islamic social finance.
+
+#### 🏆 **Expected Outcomes**
+
+✅ **1M+ microtransactions** powered by 💲MyHalal token.\
+✅ **50,000+ small-scale artisans & home-based businesses onboarded.**\
+✅ **Automated compliance tracking** for halal-certified goods.
+
+***
+
+### **🟠 Phase 3 (Q4 2025): Multi-Vendor Expansion & Global Exchange Listings**
+
+**Objective:** Scale the marketplace for enterprise-level vendors, bulk orders, and global token adoption.
+
+#### ✅ **Key Milestones**
+
+🔹 **Expansion into the multivendor model** with custom storefronts & B2B halal trade.\
+🔹 **Tokenized incentives & staking models** for vendor reputation scoring.\
+🔹 **Bulk order management tools** for halal distributors & manufacturers.\
+🔹 **Listing of $MyHalal token on major exchanges (Binance, KuCoin, OKX, etc.)**.\
+🔹 **Beta release of halal DeFi solutions** (halal crowdfunding & SME financing).
+
+#### 🏆 **Expected Outcomes**
+
+✅ **5M+ transactions per month** fueled by DeFi & staking rewards.\
+✅ **Expansion into 10+ key halal markets worldwide**.\
+✅ $MyHalal **establishes a global presence as a leading halal digital asset**.
+
+***
+
+### **🔵 Phase 4 (2026): AI-Powered Halal Compliance & Decentralized Governance**
+
+**Objective:** Fully decentralize halal certification, governance, and decision-making through AI and blockchain technology.
+
+#### ✅ **Key Milestones**
+
+🔹 **AI-driven halal certification automation** for real-time product verification.\
+🔹 **NFT-based halal certification registry** for cross-border halal standardization.\
+🔹 **Launch of Voting Communities for decentralized governance** and community-driven proposals.\
+🔹 **Integration of HalalChain DeFi solutions** (Islamic lending, halal crowdfunding, and liquidity pools).\
+🔹 **Cross-chain interoperability** with Ethereum, Polygon, and Binance Smart Chain.
+
+#### 🏆 **Expected Outcomes**
+
+✅ **100M+ transactions per year**, establishing HalalChain as the dominant halal digital marketplace.\
+✅ **Decentralized HalalCert DAO governs halal standards & compliance.**\
+✅ **AI-powered product verification ensures 99% fraud prevention.**
 
 ***
 
@@ -227,17 +336,15 @@ A core innovation within HalalChain is the integration of voting communities to 
 
 ### 13. Conclusion
 
-HalalChain Marketplace represents a transformative approach to ecommerce in the global Halal market. By integrating blockchain traceability, IoT quality assurance, advanced SCM, and a robust token ecosystem, our platform builds trust and transparency at every stage—from production to purchase. Empowering stakeholders through voting communities further ensures that HalalChain remains agile, ethical, and responsive to market needs. We invite investors, businesses, and consumers to join us on this journey toward a more transparent and Sharia-compliant digital marketplace.
+HalalChain Marketplace represents a transformative approach to ecommerce in the global Halal market. **By integrating blockchain traceability, IoT quality assurance, advanced SCM, and a robust token ecosystem, our platform builds trust and transparency at every stage—from production to purchase.** Empowering stakeholders through voting communities further ensures that HalalChain remains agile, ethical, and responsive to market needs. We invite investors, businesses, and consumers to join us on this journey toward a more transparent and Sharia-compliant digital marketplace.
 
 ***
-
-### 14. Appendices
-
-* **Appendix A:** Team and Advisor Biographies
-* **Appendix B:** Detailed Tokenomics and Smart Contract Architecture
-* **Appendix C:** Technical Specifications of IoT Devices and SCM Modules
-* **Appendix D:** Regulatory Frameworks and Compliance Documentation
 
 ***
 
 _For additional information, partnership inquiries, or to provide feedback on this whitepaper, join our_ [_Discord Channel._](https://discord.gg/r7s5XSAV)
+
+***
+
+***
+
