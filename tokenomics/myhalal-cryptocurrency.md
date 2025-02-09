@@ -1,6 +1,6 @@
 ---
 icon: ethereum
-description: 💲MyHalal Cryptocurrency (USDT, ETH, MATIC, BTC).
+description: Cryptocurrency USDT, ETH, MATIC, BTC.
 ---
 
 # 💲MyHalal Cryptocurrency
@@ -73,9 +73,20 @@ description: 💲MyHalal Cryptocurrency (USDT, ETH, MATIC, BTC).
 
 Assuming 💲**MyHalal** is initially priced at 0.01 USD per token in the public sale, the price can fluctuate based on market conditions:
 
-<table data-header-hidden><thead><tr><th width="256">TOKEN PAIR</th><th>PRICE EXAMPLE</th></tr></thead><tbody><tr><td>💲<strong>MyHalal/USDT</strong></td><td>1 💲MyHalal = 0.01 USD</td></tr><tr><td>💲<strong>MyHalal/ETH</strong></td><td>1 💲MyHalal = 0.000003 ETH</td></tr><tr><td>💲<strong>MyHalal/MATIC</strong></td><td>1 💲MyHalal = 0.00015 MATIC</td></tr><tr><td>💲<strong>MyHalal/BTC</strong></td><td>1 💲MyHalal = 0.0000015 BTC</td></tr></tbody></table>
 
-These prices are hypothetical and will change as the market evolves.
+
+| Trading Pair       | Conversion Rates                                        |
+| ------------------ | ------------------------------------------------------- |
+| 💲MyHalal/USDT     | 1 💲MyHalal = 0.01 USDT                                 |
+| 💲MyHalal/ETH      | 1 💲MyHalal = 0.000003 ETH                              |
+| 💲MyHalal/MATIC    | 1 💲MyHalal = 0.00015 MATIC                             |
+| 💲MyHalal/BTC      | 1 💲MyHalal = 0.00000015 BTC                            |
+| 💲MyHalal/BNB      | 1 💲MyHalal = 0.000025 BNB                              |
+| 💲MyHalal/COINBASE | 1 💲MyHalal = TBD (depends on listing & exchange rates) |
+
+This is an **assumed** pricing structure based on market conditions. The actual rate will depend on exchange liquidity, trading volume, and market fluctuations. 🚀
+
+{% embed url="https://apespace.io/bsc/0xad5f1057724171662d9e17b481385d26ef197943" %}
 
 ***
 
