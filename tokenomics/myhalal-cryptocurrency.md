@@ -1,9 +1,9 @@
 ---
-description: $MyHalal Cryptocurrency (USDT, ETH, MATIC, BTC).
 icon: ethereum
+description: 💲MyHalal Cryptocurrency (USDT, ETH, MATIC, BTC).
 ---
 
-# MyHalal Cryptocurrency
+# 💲MyHalal Cryptocurrency
 
 #### **General Design Guidelines**
 
@@ -13,7 +13,9 @@ icon: ethereum
 
 ***
 
-#### **1. $MyHalal/USDT (Tether)**
+#### **1.** 💲**MyHalal/USDT (Tether)**
+
+<figure><img src="../.gitbook/assets/eth.jpeg" alt=""><figcaption></figcaption></figure>
 
 * **Theme**: _Stability meets ethics_.
 * **Visuals**:
@@ -23,7 +25,9 @@ icon: ethereum
 
 ***
 
-#### **2. $MyHalal/ETH (Ethereum)**
+#### **2.** 💲**MyHalal/ETH (Ethereum)**
+
+<figure><img src="../.gitbook/assets/KKt.JPG" alt=""><figcaption></figcaption></figure>
 
 * **Theme**: _Innovation in Islamic DeFi_.
 * **Visuals**:
@@ -33,7 +37,9 @@ icon: ethereum
 
 ***
 
-#### **3. $MyHalal/MATIC (Polygon)**
+#### **3.** 💲**MyHalal/MATIC (Polygon)**
+
+<figure><img src="../.gitbook/assets/MTC.JPG" alt=""><figcaption></figcaption></figure>
 
 * **Theme**: _Scalable Halal ecosystems_.
 * **Visuals**:
@@ -43,7 +49,9 @@ icon: ethereum
 
 ***
 
-#### **4. $MyHalal/BTC (Bitcoin)**
+#### **4.** 💲**MyHalal/BTC (Bitcoin)**
+
+<figure><img src="../.gitbook/assets/BTC.JPG" alt=""><figcaption></figcaption></figure>
 
 * **Theme**: _Halal meets digital gold_.
 * **Visuals**:
@@ -63,13 +71,9 @@ icon: ethereum
 
 **Example of Tokenization Process:**
 
-Assuming **$MyHalal** is initially priced at 0.01 USD per token in the public sale, the price can fluctuate based on market conditions:
+Assuming 💲**MyHalal** is initially priced at 0.01 USD per token in the public sale, the price can fluctuate based on market conditions:
 
-| **Token Pair**     | **Price Example**          |
-| ------------------ | -------------------------- |
-| **$MyHalal/USDT**  | 1 $MyHalal = 0.01 USD      |
-| **$MyHalal/ETH**   | 1 $MyHalal = 0.000003 ETH  |
-| **$MyHalal/MATIC** | 1 $MyHalal = 0.00015 MATIC |
+<table data-header-hidden><thead><tr><th width="256">TOKEN PAIR</th><th>PRICE EXAMPLE</th></tr></thead><tbody><tr><td>💲<strong>MyHalal/USDT</strong></td><td>1 💲MyHalal = 0.01 USD</td></tr><tr><td>💲<strong>MyHalal/ETH</strong></td><td>1 💲MyHalal = 0.000003 ETH</td></tr><tr><td>💲<strong>MyHalal/MATIC</strong></td><td>1 💲MyHalal = 0.00015 MATIC</td></tr><tr><td>💲<strong>MyHalal/BTC</strong></td><td>1 💲MyHalal = 0.0000015 BTC</td></tr></tbody></table>
 
 These prices are hypothetical and will change as the market evolves.
 
@@ -77,8 +81,8 @@ These prices are hypothetical and will change as the market evolves.
 
 **Token Use in the HalalChain Ecosystem:**
 
-* **Staking Rewards:** Users who stake **$MyHalal** tokens will earn rewards that may be paid in **$MyHalal** or other designated cryptocurrencies based on staking pools.
-* **Payments:** **$MyHalal** can be used to pay for products and services on the HalalChain Marketplace, with the transaction value determined by the current market rate.
-* **Governance Participation:** Token holders will use **$MyHalal** tokens to vote on key platform decisions, influencing the future development of HalalChain Marketplace.
+* **Staking Rewards:** Users who stake 💲**MyHalal** tokens will earn rewards that may be paid in 💲**MyHalal** or other designated cryptocurrencies based on staking pools.
+* **Payments:** 💲**MyHalal** can be used to pay for products and services on the HalalChain Marketplace, with the transaction value determined by the current market rate.
+* **Governance Participation:** Token holders will use 💲**MyHalal** tokens to vote on key platform decisions, influencing the future development of HalalChain Marketplace.
 
 ***
