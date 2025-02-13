@@ -341,7 +341,7 @@
     "@axe-core/playwright": "^4.10.0",
     "@github/markdownlint-github": "^0.6.2",
     "@graphql-inspector/core": "^6.1.0",
-    "@graphql-tools/load": "^8.0.0",
+    "@graphql-tools/load": "^8.0.12",
     "@octokit/rest": "21.0.2",
     "@playwright/test": "^1.48.1",
     "@types/accept-language-parser": "1.5.6",
